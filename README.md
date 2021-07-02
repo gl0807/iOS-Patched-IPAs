@@ -14,7 +14,7 @@
 
 * 注意二:仓库内所有应用均为原BundleID，安装前先卸载同BundleID应用，有能力可自行修改BundleID实现共存(不建议)
 
-* 个人签名:Sideloadly用于iOS-IPA个人账号免费每7天一次的签名工具[Sideloadly](https://share.initnil.com/Sideloadly)
+* 个人签名:Sideloadly用于iOS-IPAs个人账号每7天重复一次的免费签名工具[Sideloadly介绍和下载](https://mp.weixin.qq.com/s/iwwPQpJWmHdsoPxbKSoFtQ)
 
 本仓库内应用仅供逆向学习交流，严禁以任何形式贩卖本仓库内应用，请于下载后24小时内删除，否则产生的一切后果将由使用者本人承担， 仓库所有者不对仓库内任何资源负法律责任
 
