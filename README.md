@@ -6,7 +6,7 @@
 
 **[QQ-DumpDecrypted-IPAs](https://www.123pan.com/s/UPeRVv-vndhH)**
 
-**微信-DumpDecrypted-IPAs](https://www.123pan.com/s/UPeRVv-TndhH)**
+**[微信-DumpDecrypted-IPAs](https://www.123pan.com/s/UPeRVv-TndhH)**
 
 ---
 
